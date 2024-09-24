@@ -1,4 +1,4 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://emoji-kitchen.streamlitapp.com)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-emoji-kitchen-0eyi2v5fax9e.streamlit.app/)
 
 # Streamlit Emoji randomizer
 
